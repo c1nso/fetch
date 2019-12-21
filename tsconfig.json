@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es5",
+        "declaration": true,
+        "declarationDir": "dist/src",
+        "downlevelIteration": true,
+        "moduleResolution": "node",
+        "lib": ["es6" , "dom"]
+    },
+    "exclude": [
+        "node_modules",
+        "example"
+    ]
+}
