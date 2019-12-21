@@ -1,5 +1,5 @@
 {
-    "name": "@server/fetch",
+    "name": "fetch_lanka",
     "version": "1.0.0",
     "description": "api请求库",
     "main": "dist/fetch.js",
