@@ -1,8 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/$CACHE_FILE$
-.idea/$PRODUCT_WORKSPACE_FILE$
-.idea/api.iml
-.idea/markdown-navigator.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+.idea/
+node_modules/
+package-lock.json
+/lib/
