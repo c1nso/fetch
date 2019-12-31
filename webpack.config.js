@@ -16,7 +16,7 @@ module.exports = {
 	output: {
 		path: PATHS.build,
 		filename: '[name].js',
-		library: 'Fetch',
+		library: 'fetch',
 		libraryTarget: 'umd'
 	},
 	module: {
