@@ -4,7 +4,7 @@ const WebpackBuildNotifierPlugin = require('webpack-build-notifier');
 const uglify = require("uglifyjs-webpack-plugin");
 
 const PATHS = {
-	src: path.join(__dirname, "./src"),
+	src: path.join(__dirname, './src'),
 	build: path.join(__dirname, './dist')
 };
 
@@ -16,7 +16,7 @@ module.exports = {
 	output: {
 		path: PATHS.build,
 		filename: '[name].js',
-		library: 'fetch',
+		library: 'Fetch',
 		libraryTarget: 'umd'
 	},
 	module: {

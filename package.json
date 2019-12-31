@@ -16,8 +16,8 @@
         "type": "git",
         "url": "https://github.com/c1nso/fetch.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "lanka",
+    "license": "",
     "devDependencies": {
         "@types/axios": "^0.14.0",
         "@types/es6-promise": "^3.3.0",

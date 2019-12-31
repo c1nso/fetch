@@ -3,7 +3,7 @@ import {Api, ApiConfigCollection, ApiResponse, ApiConfigOption, Driver} from "./
 import {BaseDriver} from "./driver/base";
 import  FetchDriver  from "./driver/fetch";
 
-export default class Courier extends Api {
+export default class Fetch extends Api {
     private readonly isSupportFetch: boolean = false;
 
     constructor(configs: ApiConfigCollection[]) {
